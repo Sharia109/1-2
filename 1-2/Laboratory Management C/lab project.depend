@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1512328510 source:c:\users\user\desktop\lab project\main.c
+	"headerfiles.h"
+	"struct.h"
+	"selection.c"
+
+1511902145 source:c:\users\user\desktop\lab project\number.c
+	<stdio.h>
+	"main.c"
+
+1511902775 c:\users\user\desktop\lab project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"struct.c"
+	"update.c"
+	"delet.c"
+
+1512319611 c:\users\user\desktop\lab project\struct.c
+	"headerfiles.c"
+
+1512318959 c:\users\user\desktop\lab project\update.c
+	"headerfiles.c"
+
+1511902646 source:c:\users\user\desktop\lab project\struct.c
+
+1512318881 c:\users\user\desktop\lab project\delet.c
+	"headerfiles.c"
+
+1512328389 c:\users\user\desktop\lab project\headerfiles.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1512319549 c:\users\user\desktop\lab project\insert.c
+	"headerfiles.c"
+
+1512329002 c:\users\user\desktop\lab project\selection.c
+	"headerfiles.c"
+
+1512319596 c:\users\user\desktop\lab project\number.c
+	"headerfiles.c"
+
+1512327920 c:\users\user\desktop\lab project\headerfiles.h
+	"headerfiles.c"
+
+1512328061 c:\users\user\desktop\lab project\struct.h
+	"struct.c"
+
+1509868570 source:d:\lab project\main.c
+	"headerfiles.h"
+	"struct.h"
+	"selection.h"
+	"insert.h"
+	"update.h"
+	"delet.h"
+	"number.h"
+
+1512327922 d:\lab project\headerfiles.h
+	"headerfiles.c"
+
+1512328390 d:\lab project\headerfiles.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1512328062 d:\lab project\struct.h
+	"struct.c"
+
+1509863582 d:\lab project\struct.c
+	"headerfiles.c"
+
+1512329412 d:\lab project\selection.h
+	"selection.c"
+
+1509870190 d:\lab project\selection.c
+	"headerfiles.c"
+
+1512336686 d:\lab project\insert.h
+	"insert.c"
+
+1509870160 d:\lab project\insert.c
+	"headerfiles.c"
+
+1509854360 d:\lab project\update.h
+	"update.c"
+
+1509870038 d:\lab project\update.c
+	"headerfiles.c"
+
+1509854366 d:\lab project\delet.h
+	"delet.c"
+
+1509870114 d:\lab project\delet.c
+	"headerfiles.c"
+
+1509857026 d:\lab project\number.h
+	"number.c"
+
+1509870178 d:\lab project\number.c
+	"headerfiles.c"
+

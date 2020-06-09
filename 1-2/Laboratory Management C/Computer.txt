@@ -1,0 +1,44 @@
+good
+18 11 2017
+lg
+1month
+
+bad
+21 12 2009
+toshiba
+6month
+
+bad
+30 9 2017
+lg
+6month
+
+6 02 2006
+apple
+3years
+
+good
+28 10 2017
+apple
+2year
+
+good
+08 09 2017
+bappi
+6month
+
+bad
+25 11 2016
+rasel
+6month
+
+good
+9 25 2018
+miraz
+5month
+
+bad
+25 1 2017
+bahrul
+1year
+

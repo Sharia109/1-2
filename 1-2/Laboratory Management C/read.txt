@@ -1,0 +1,23 @@
+good
+18 11 2017
+lg
+1month
+
+bad
+21 12 2009
+toshiba
+6month
+
+bad
+30 9 2017
+lg
+6month
+
+6 02 2006
+apple
+3years
+
+good
+28 10 2017
+apple
+2year
